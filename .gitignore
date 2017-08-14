@@ -67,6 +67,25 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.ipch
+*.suo
+*.exp
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.aps
+*.user
+*.tlog
+*.obj
+*.log
+*.res
+*.idb
+*.pch
+*.lastbuildstate
+
+
+출처: http://ogoons.tistory.com/116 [오군의 기술 블로그]
 
 # Visual Studio profiler
 *.psess
