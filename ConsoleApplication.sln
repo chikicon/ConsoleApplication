@@ -11,21 +11,16 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
-		ServerResource|Win32 = ServerResource|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.Debug|Win32.ActiveCfg = Debug|Win32
 		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.Debug|Win32.Build.0 = Debug|Win32
 		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.Release|Win32.ActiveCfg = Release|Win32
 		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.Release|Win32.Build.0 = Release|Win32
-		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.ServerResource|Win32.ActiveCfg = ServerResource|Win32
-		{1FD9BD5E-5460-42B8-B49B-4AE9BF7F81A1}.ServerResource|Win32.Build.0 = ServerResource|Win32
 		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.Debug|Win32.ActiveCfg = Debug|Win32
 		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.Debug|Win32.Build.0 = Debug|Win32
 		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.Release|Win32.ActiveCfg = Release|Win32
 		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.Release|Win32.Build.0 = Release|Win32
-		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.ServerResource|Win32.ActiveCfg = ServerResource|Win32
-		{DA8BA145-DF9B-4DA7-97BC-FCACDB67640C}.ServerResource|Win32.Build.0 = ServerResource|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
