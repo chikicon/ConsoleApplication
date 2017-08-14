@@ -85,13 +85,24 @@ ipch/
 *.lastbuildstate
 
 
-출처: http://ogoons.tistory.com/116 [오군의 기술 블로그]
-
 # Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
 
+# Directories
+ipch
+Debug
+Release
+ServerResource
+
+# Executables
+*.exe
+*.dll
+*.lib
+
+
+출처: http://ogoons.tistory.com/116 [오군의 기술 블로그]
 # TFS 2012 Local Workspace
 $tf/
 
